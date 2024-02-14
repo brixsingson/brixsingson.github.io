@@ -83,7 +83,7 @@
           <a href="https://www.facebook.com/brian.singson/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
           <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
           <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/brianne-singson/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -114,7 +114,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>A Licensed Professional Teacher and an IT Professional with more 10 years of experience in the academe, which enables me to implement effective IT strategies within the organization. 
+          <p>A Licensed Professional Teacher and an IT Professional with more 11 years of experience in the academe, which enables me to implement effective IT strategies within the organization. 
         </div>
 
         <div class="row">
