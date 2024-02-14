@@ -5,7 +5,7 @@
   <meta charset="UTFF-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>My Website</title>
+  <title>Brianne Singson</title>
   <!-- Added Stylesheet -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -83,7 +83,7 @@
           <a href="https://www.facebook.com/brian.singson/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
           <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
           <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
-          <a href="https://www.linkedin.com/in/brianne-singson/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/brianne-singson/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -102,7 +102,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Brianne Singson</h1>
-      <p>I'm <span class="typed" data-typed-items="IT Instructor, Developer, IT Support Professional"></span></p>
+      <p>I'm <span class="typed" data-typed-items="IT Instructor, IT Professional, Cybersecurity , Data Engineer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -114,7 +114,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>A Licensed Professional Teacher and an IT Professional with more 11 years of experience in the academe, which enables me to implement effective IT strategies within the organization. 
+          <p>A Licensed Professional Teacher and an IT Professional with more than 11 years of experience in the academe, with various IT Trainings and Certifications related to Cybersecurity, Cloud Database and Data Analytics </p>
         </div>
 
         <div class="row">
@@ -122,7 +122,7 @@
             <img src="images/profile.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>IT Instructor &amp; IT Support Professional.</h3>
+            <h3>IT Instructor &amp; IT Professional.</h3>
             <p class="fst-italic">
               Having strong analytical skills, flexibility, and extreme dedication to work, I have an ability to do task independently and as a teammember or a leader; and proven ability to efficiently handle multiple responsibilities.
             </p>
