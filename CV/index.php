@@ -102,7 +102,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Brianne Singson</h1>
-      <p>I'm <span class="typed" data-typed-items="IT Instructor, IT Professional, Cybersecurity , Data Engineer"></span></p>
+      <p> <span class="typed" data-typed-items="IT Instructor, DICT Resource Speaker, Google IT Support Professional, ISC2 Certified in Cybersecurity, SPARTA Microspecialization Graduate"></span></p>
     </div>
   </section><!-- End Hero -->
 
